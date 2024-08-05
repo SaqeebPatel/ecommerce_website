@@ -43,7 +43,7 @@ function App() {
       color: "White",
       price: 30000,
       image:
-        "https://powermaccenter.com/cdn/shop/files/A012000x2000_a1b30c33-5929-4b64-91cf-a38c71656f8a.jpg?v=1691109975&width=1445",
+      "https://images.unsplash.com/photo-1592821266573-4c773cfc5507?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       prodId: 2,
@@ -51,7 +51,7 @@ function App() {
       proddes: "A14 Bionic chip, improved cameras, 5G support, Ceramic .",
       color: "Purple",
       price: 40000,
-      image: "https://media.extra.com/i/aurora/100260270_100_01?fmt=auto&w=720",
+      image: "https://images.unsplash.com/photo-1600262606369-acb8a2cf69fb?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       prodId: 3,
@@ -60,7 +60,7 @@ function App() {
       color: "Green",
       price: 450000,
       image:
-        "https://iplanet.one/cdn/shop/files/iPhone_13_Green_PDP_Image_Position-1A__GBEN.jpg?v=1691170460",
+        "https://images.unsplash.com/photo-1596896639823-da416a9d3960?q=80&w=1884&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       prodId: 4,
@@ -69,7 +69,7 @@ function App() {
       color: "blue",
       price: 50000,
       image:
-        "https://www.maplestore.in/cdn/shop/files/iPhone_14_Blue_PDP_Image_Position-1A__WWEN_43b0347b-c716-4297-b1d4-a15af53ad270_1445x.jpg?v=1701815316",
+        "https://images.unsplash.com/photo-1555375771-14b2a63968a9?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       prodId: 5,
@@ -78,7 +78,7 @@ function App() {
       color: "Pink",
       price: 55000,
       image:
-        "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg?v=1695427946&width=1445",
+      "https://images.unsplash.com/photo-1596896639823-da416a9d3960?q=80&w=1884&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       prodId: 6,
@@ -87,7 +87,7 @@ function App() {
       color: "Black",
       price: 60000,
       image:
-        "https://iplanet.one/cdn/shop/files/iPhone_15_Pro_Natural_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1695435375",
+      "https://images.unsplash.com/photo-1592821266573-4c773cfc5507?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ];
 

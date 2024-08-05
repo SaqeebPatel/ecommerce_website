@@ -71,13 +71,15 @@ function Storage() {
         margin: "auto",
         padding: "10px",
         marginTop: "20px",
+        
       }}
     >
-      <ul>
-        <li>180</li>
-        <li>256</li>
-        <li>1 TB</li>
-      </ul>
+   <ul class="list-group">
+  <li class="list-group-item">6GB RAM /180 GB  </li>
+  <li class="list-group-item">8GB RAM /256 GB</li>
+  <li class="list-group-item">12GB RAM / 1 T</li>
+ 
+</ul>
     </div>
   );
 }
@@ -94,11 +96,11 @@ function Color() {
         marginTop: "20px",
       }}
     >
-      <ul>
-        <li>Red</li>
-        <li>Blue</li>
-        <li>Green</li>
-      </ul>
+     
+    <ul class="list-group">
+  <li class="list-group-item"> Red</li>
+  <li class="list-group-item">Blue</li>
+  <li class="list-group-item">Green</li></ul>
     </div>
   );
 }
