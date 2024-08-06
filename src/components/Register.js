@@ -41,7 +41,7 @@ function Register({ onRegister }) {
         width: "40%",
         height: "460px",
         marginTop: "10%",
-        backgroundColor: "#EAE7DC",
+        backgroundColor: "#ebf5fb",
         borderRadius: "20px",
       }}
     >

@@ -94,8 +94,7 @@ function App() {
   return (
     <div>
       <Navbar count={cart} cart={cart} username={username} />
-      <Modalitem cart={cart} handleRemove={handleRemove} />
-
+      
       <Routes>
         <Route path="/" element={<Navigate to="/register" />} />
         <Route

@@ -13,7 +13,7 @@ body[data-theme="light"] {
 
 body[data-theme="dark"] {
   --bg-color: #282c34;
-  --text-color: #ffffff;
+  --text-color: #121111;
   --button-bg: #343a40;
   --button-text: #ffffff;
   --card-bg: #2c2c2c;
@@ -93,3 +93,12 @@ body {
 h5, p, h4, h3 {
   color: var(--text-color);
 }
+
+.navbar-profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+

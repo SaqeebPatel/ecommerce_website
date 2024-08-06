@@ -41,7 +41,7 @@ function Login() {
         width: "40%",
         height: "350px",
         marginTop: "10%",
-        backgroundColor: "#EAE7DC",
+        backgroundColor: "#f5eef8",
         borderRadius: "20px",
       }}
     >
@@ -81,7 +81,7 @@ function Login() {
           <button type="submit" class="btn btn-primary">
             Login
           </button>
-          <Link
+          <Link 
             to="/register"
             type="submit"
             class="btn btn-primary"
