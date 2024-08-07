@@ -40,12 +40,7 @@ function Modalitem({ cart = [], handleRemove }) {
                     <h5>{item.prodName}</h5>
                     <p>Price: ${item.price}</p>
                   </div>
-                  <button
-                    className="btn btn-primary"
-                    onClick={() => handleRemove(id)}
-                  >
-                    ❌
-                  </button>
+                 
                 </div>
               ))}
               <hr />
