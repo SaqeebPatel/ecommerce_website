@@ -15,8 +15,8 @@ function Modalitem({ cart = [], handleRemove }) {
 
   return (
     <>
-      <span variant="primary" onClick={handleShow} style={{ color: "brown" }}>
-        Card
+      <span variant="primary" onClick={handleShow} style={{ color: "brown",  marginRight:"10px"}}>
+        C a r d
         
       </span>
 
