@@ -95,6 +95,7 @@ function App() {
     <div>
       <Navbar count={cart} cart={cart} username={username} />
       
+      
       <Routes>
         <Route path="/" element={<Navigate to="/register" />} />
         <Route
