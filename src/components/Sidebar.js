@@ -7,7 +7,7 @@ const Sidebar = ({ isOpen, toggleSidebar, handleLogout }) => {
       {/* <button onClick={toggleSidebar} className="btn btn-close mt-5">
         Close
       </button> */}
-      <button onClick={handleLogout} className="btn btn-primary mt-5">
+      <button onClick={handleLogout} className="btn btn-outline-danger">
         Logout
       </button>
     </div>
