@@ -1,13 +1,10 @@
 import React from "react";
-import "./Sidebar.css"; // Add necessary styles here
+import "./Sidebar.css"; 
 
 const Sidebar = ({ isOpen, toggleSidebar, handleLogout }) => {
   return (
     <div className={`sidebar ${isOpen ? "open" : ""}`}>
-      {/* <button onClick={toggleSidebar} className="btn btn-close mt-5">
-        Close
-      </button> */}
-      <button onClick={handleLogout} className="btn btn-outline-danger">
+      <button onClick={handleLogout} className="btn btn-outline-danger mt-5">
         Logout
       </button>
     </div>
